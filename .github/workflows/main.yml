@@ -1,0 +1,2 @@
+- name: Android APK builder
+  uses: kevingopalan/action_android_build@v1
